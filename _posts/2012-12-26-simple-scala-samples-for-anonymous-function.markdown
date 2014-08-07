@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple Scala Samples for Anonymous Function"
 date:   2012-12-26 23:03:52
-categories: Scala
+categories: General
 ---
 
 Recently I played scala with anonymous function. Here are the samples. They might look silly, but work for me. I just want to show some concept in Scala, not how to write an elegant code.

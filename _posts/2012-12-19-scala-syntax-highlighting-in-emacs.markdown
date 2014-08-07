@@ -2,7 +2,7 @@
 layout: post
 title:  "Scala Syntax Highlighting in Emacs"
 date:   2012-12-19 23:03:52
-categories: Scala
+categories: General
 ---
 
 1. Download the tool from Scala Tool Support

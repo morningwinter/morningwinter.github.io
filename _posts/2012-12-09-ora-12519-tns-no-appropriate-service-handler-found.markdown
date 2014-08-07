@@ -2,7 +2,7 @@
 layout: post
 title:  "ORA-12519 TNS no Appropriate Service Handler Found"
 date:   2012-12-09 23:03:52
-categories: Database
+categories: General
 ---
 
 When working with Oracle XE 10g, the following error shows up:

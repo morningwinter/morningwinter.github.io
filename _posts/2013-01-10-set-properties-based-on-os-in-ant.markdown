@@ -2,7 +2,7 @@
 layout: post
 title:  "Set Properties Based on OS in Ant"
 date:   2013-01-10 23:03:52
-categories: Ant
+categories: General
 ---
 
 Here is an example of how to set property based on OS in Ant:
